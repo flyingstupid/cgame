@@ -1,0 +1,6 @@
+{
+    "cmd": "cmd",
+    "args": [ "/C src\\build.bat"],
+    "sh": false,
+    "cwd": ""
+}

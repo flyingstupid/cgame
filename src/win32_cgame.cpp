@@ -5,7 +5,6 @@
 
 #define CLAMP(v, min, max) ((v < min) ? min : ((v > max) ? max : v))
 
-
 struct win32_offscreen_buffer
 {
 	BITMAPINFO info;
